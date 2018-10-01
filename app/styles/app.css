@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.header-main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: #ff6b24;
+  color: white;
+}
+
+.footer-main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: #1e4d66;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
